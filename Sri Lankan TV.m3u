@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:-1,SWARNAVAHINI
+rtmp://wowza.eapdns.com/live/swrlive
+#EXTINF:-1,ITN
+rtmp://mediacp.comcities.com:1935/itn-cdn/default.stream
+#EXTINF:-1,DERANA
+rtmp://cp1.serverse.com/deranalive/deranalive
+#EXTINF:-1,HIRU TV
+rtsp://cp1.serverse.com/8012/8012
+#EXTINF:-1,SHRADDHA TV
+rtsp://cp1.serverse.com/8050/8050
+#EXTINF:-1,THE BUDDHIST
+rtsp://cp1.serverse.com/thebuddhist/thebuddhist
